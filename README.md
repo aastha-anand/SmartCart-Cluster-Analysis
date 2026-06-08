@@ -15,6 +15,8 @@ E:\SmartCart\
 ├── segment_customers.ipynb   # Main Jupyter Notebook containing the code pipeline
 └── README.md                 # Project analysis and strategic playbook
 
+'''
+
 ## Machine Learning Workflow Summary
 Data Preprocessing: Handled missing data by imputing the Income column with its median value. Filtered extreme noise and outliers by removing rows with an Age >= 90 or Income >= $600,000 (reducing the dataset from 2,240 to 2,236 rows).
 Feature Engineering: Engineered core behavioral and demographic features to capture deep user profiles:
