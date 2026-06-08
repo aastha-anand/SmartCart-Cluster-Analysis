@@ -33,10 +33,11 @@ E:\SmartCart\
 
 ---
 
-## Data-Driven Cluster BreakdownBased on the model's statistical summaries (cluster_summary), the 4 customer segments break down into clear demographic and behavioral archetypes:
+## Data-Driven Cluster Breakdown
+Based on the model's statistical summaries (cluster_summary), the 4 customer segments break down into clear demographic and behavioral archetypes:
 
 ```
-FINANCIAL POWER (High Spend & High Income)
+               FINANCIAL POWER (High Spend & High Income)
                                       │
           [Cluster 1]                 │               [Cluster 3]
        Affluent Partners              │            Affluent Singles
