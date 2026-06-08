@@ -51,40 +51,34 @@ FINANCIAL POWER (High Spend & High Income)
 ```
 
 ## Cluster 0: Frugal Family Partners
-- Statistical Profile: Moderate Income (~$39.6k), low total spending (~$222), high number of children (average 1.24). 100% live with a partner.
+- Statistical Profile: Moderate Income ($39.6k), low total spending ($222), high number of children (average 1.24). 100% live with a partner.
 - Behavioral Response: Frequent deal seekers (highest deal purchases at 2.59), frequent web browsers (6.3 monthly visits), very low campaign response rate (7.6%).
 - Marketing Strategy:
      - Value Bundles: Pitch family-centric bulk promotions and "Buy One Get One" (BOGO) deals to respect their rigid budget limits.
      - Utility Push: Focus marketing communication on household utility and saving time. Avoid showing premium or luxury item showcases.
 
 ## Cluster 1: Affluent Partners ("The Power Couples")
-- Statistical Profile: Highest Income (~$72.8k), highest total spending (~$1,236), low children presence (0.51). 100% live with a partner.
+- Statistical Profile: Highest Income ($72.8k), highest total spending ($1,236), low children presence (0.51). 100% live with a partner.
 - Behavioral Response: Prefer high-velocity, high-value traditional shopping avenues. High catalog purchases (5.49) and store visits (8.65). Low web browsing necessity (3.5 visits).
 - Marketing Strategy:
     - Premium Cross-Selling: Direct-mail premium item catalogs tailored to dual-income dynamics (e.g., fine wine pairings or premium meat boxes).
     - Convenience & Subscriptions: Offer high-end automated home delivery or curated seasonal subscription plans to save them time.
 
 ## Cluster 2: Frugal Singles
-- Statistical Profile: Lowest Income (~$36.9k), lowest total spending (~$165), high number of children (1.27). 99.3% are single parents.
+- Statistical Profile: Lowest Income ($36.9k), lowest total spending ($165), high number of children (1.27). 99.3% are single parents.
 - Behavioral Response: Highest web browsing rate (6.6 visits/month) but lowest dollar conversion. Relies on deals (2.59). Decent response to direct marketing (14.2%).
 - Marketing Strategy:
    - Frictionless Incentives: Target with personalized mobile flash sales or low free-shipping thresholds to ease transactional friction.
    - Retargeting Ads: Deploy active digital ad-retargeting since they frequently browse the website but often leave items sitting in the cart.
 
 ## Cluster 3: Affluent Singles ("High-Value Independence")
-- Statistical Profile: High Income (~$70.7k), massive spending (~$1,190), lowest child count (0.46). 100% are single.
+- Statistical Profile: High Income ($70.7k), massive spending ($1,190), lowest child count (0.46). 100% are single.
 - Behavioral Response: Highest campaign responsiveness by a massive margin (32.0%). High catalog (5.0) and web purchases (5.79). They spend heavily, independently, and react strongly to brand outreach.
 - Marketing Strategy:
    - VIP Loyalty Programs: Target with experiential rewards, early tech-feature opt-ins, or luxury product tier upgrades.
    - Direct Email Campaigns: Since their response rate is completely unmatched (32%), focus aggressive testing of new product lines or luxury offerings directly on this segment first.
 
 
-## Model Performance & Metrics Matrix
-Below is the definitive data matrix extracted from the Agglomerative model's cluster summary:
-
-```
-Cluster IDStructural ArchetypeAvg IncomeAvg SpendingWeb Visits/MoCampaign ResponseLiving StatusAvg Children0Frugal Family Partners$39,680$2226.37.6%100% Partner1.241Affluent Partners$72,808$1,2363.516.6%100% Partner0.512Frugal Singles$36,960$1656.614.2%99.3% Single1.273Affluent Singles$70,722$1,1903.732.0%100% Single0.46
-```
 ---
 
 ## How to Run the Clustering Pipeline1. 
