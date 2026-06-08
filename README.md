@@ -49,6 +49,9 @@ Based on the model's statistical summaries (cluster_summary), the 4 customer seg
                                       │
                    BUDGET CONSCIOUS (Low Spend & Low Income)
 
+[!Customer Clusters](cluster_plot.png)
+
+
 ```
 
 ## Cluster 0: Frugal Family Partners
@@ -91,9 +94,10 @@ Execution
 Open your terminal, navigate to your project home on the E: drive, and run the notebook:
 
 ```DOS
-cd /d E:\SmartCart
+cd /d E:\ProjectName
 jupyter notebook segment_customers.ipynb
 ```
+
 
 
 
