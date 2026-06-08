@@ -49,10 +49,17 @@ Based on the model's statistical summaries (cluster_summary), the 4 customer seg
                                       │
                    BUDGET CONSCIOUS (Low Spend & Low Income)
 
-[!Customer Clusters](cluster_plot.png)
+
 
 
 ```
+
+## Data-Driven Cluster Breakdown
+
+Based on the model’s statistical summaries, the 4 customer segments break down into clear archetypes:
+
+![Customer Clusters](cluster_plot.png)
+
 
 ## Cluster 0: Frugal Family Partners
 - Statistical Profile: Moderate Income ($39.6k), low total spending ($222), high number of children (average 1.24). 100% live with a partner.
